@@ -82,6 +82,11 @@ h2 {
 }
 
 .kepalairas{
+font-size:9px;
+text-align: center;
+word-wrap: break-word;
+width: 76px;
+margin: auto;
 
 }
 
@@ -92,4 +97,6 @@ h2 {
 a:link, a:active, a:visited, a:hover {
 	color: #0E0E0E;
 }
-
+#szurke {
+	color: gray;
+}
